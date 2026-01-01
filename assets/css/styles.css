@@ -36,6 +36,8 @@ nav{
 }
 
 img{
+    display: block;
+    margin: auto;
     width: 95%;
 }
 
