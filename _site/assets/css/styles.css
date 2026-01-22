@@ -97,17 +97,18 @@ nav a:hover,
 /* Blog */
 
 .blog-list{
-    width: 95%;
-    padding: 0;
+    width: 100%;
+    padding: 24px;
     list-style-type: none;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 24px;
+    /* border: 2px solid red; */
 }
 
 .blog-list li{
-    width: 500px;
+    width: 45%;
     color: white;
     padding: 12px;
     background-color: purple;
